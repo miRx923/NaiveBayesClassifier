@@ -1,7 +1,7 @@
 # NaiveBayesClassifier
 School assignment about implementing a popular machine learning algorithm Naive Bayes Classifier in C# programming language.
 
-<center><h1>Documentation of the Naive Bayes Classifier in C#</h1></center>
+#Documentation of the Naive Bayes Classifier in C#
 
 ## 1. Introduction
 &emsp;&emsp;This documentation provides a description and code usage guide for the Naive Bayes Classifier (hereafter referred to as "NBC" or "classifier") in C#. NBC is one of the most common machine learning classification algorithms and is based on Bayes Theorem. The code in this document implements NBC and allows training a classifier on a set of input examples and then classifying the new examples into one of the categories based on the probability of occurrence of each attribute for each category. This document contains a description of the NaiveBayesClassifier class, which implements the NBC algorithm consisting of a method for training and a method for classifying, along with examples for using the class. In addition, the document focuses on explaining the working principles of NBC and its applications in machine learning.
@@ -43,7 +43,8 @@ occurrences of each attribute for each class in the training set.
 
 &emsp;&emsp;The <b>Predict (string[] features)</b> method is used to classify new examples based on the trained data. The input to the method is an array of attributes (features) of the new input example to be classified. First, the variable bestLabe1 is initialized as an empty string and the variable bestScore is initialized as the smallest value of the double data type. The method traverses all the classes in classCounts and for each class, it computes the probability of occurrence of that class in the training set and then computes the probability that the input example belongs to that class. The calculation of this probability is done according to the following formula:
 
-<center><b>P(class) + Σ P(feature<sub>i</sub> | class)</b></center>
+<b>P(class) + Σ P(feature<sub>i</sub> | class)</b>
+
 
 <b>Where:</b>
 • <b>P(class)</b> represents the probability of occurrence of a given class in the training set,
