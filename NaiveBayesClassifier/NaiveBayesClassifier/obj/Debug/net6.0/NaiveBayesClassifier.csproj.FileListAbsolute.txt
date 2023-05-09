@@ -1,0 +1,60 @@
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.exe
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.deps.json
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.runtimeconfig.json
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.dll
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.pdb
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.csproj.AssemblyReference.cache
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.AssemblyInfoInputs.cache
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.AssemblyInfo.cs
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.csproj.CoreCompileInputs.cache
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.dll
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\refint\NaiveBayesClassifier.dll
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.pdb
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.genruntimeconfig.cache
+D:\Coding\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\ref\NaiveBayesClassifier.dll
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.exe
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.deps.json
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.runtimeconfig.json
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.dll
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.pdb
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.csproj.AssemblyReference.cache
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.AssemblyInfoInputs.cache
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.AssemblyInfo.cs
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.csproj.CoreCompileInputs.cache
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.dll
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\refint\NaiveBayesClassifier.dll
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.pdb
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.genruntimeconfig.cache
+C:\Users\miRx923\Desktop\NaiveBayesClassifier\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\ref\NaiveBayesClassifier.dll
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.csproj.AssemblyReference.cache
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.AssemblyInfoInputs.cache
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.AssemblyInfo.cs
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.csproj.CoreCompileInputs.cache
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.dll
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\refint\NaiveBayesClassifier.dll
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.pdb
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.exe
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.deps.json
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.runtimeconfig.json
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.dll
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.pdb
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.genruntimeconfig.cache
+C:\Users\miRx923\Desktop\NaiveBayesClassifier v PC\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\ref\NaiveBayesClassifier.dll
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.exe
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.deps.json
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.runtimeconfig.json
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.dll
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\bin\Debug\net6.0\NaiveBayesClassifier.pdb
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.csproj.AssemblyReference.cache
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.AssemblyInfoInputs.cache
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.AssemblyInfo.cs
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.csproj.CoreCompileInputs.cache
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.dll
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\refint\NaiveBayesClassifier.dll
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.pdb
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\NaiveBayesClassifier.genruntimeconfig.cache
+D:\Škola\TUKE\2. ročník\Strojové učenie\Zadanie\NaiveBayesClassifier\NaiveBayesClassifier\obj\Debug\net6.0\ref\NaiveBayesClassifier.dll
