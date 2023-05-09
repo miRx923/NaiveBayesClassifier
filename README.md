@@ -1,7 +1,7 @@
 # NaiveBayesClassifier
 School assignment about implementing a popular machine learning algorithm Naive Bayes Classifier in C# programming language.
 
-#Documentation of the Naive Bayes Classifier in C#
+<h1>Documentation of the Naive Bayes Classifier in C#</h1>
 
 ## 1. Introduction
 &emsp;&emsp;This documentation provides a description and code usage guide for the Naive Bayes Classifier (hereafter referred to as "NBC" or "classifier") in C#. NBC is one of the most common machine learning classification algorithms and is based on Bayes Theorem. The code in this document implements NBC and allows training a classifier on a set of input examples and then classifying the new examples into one of the categories based on the probability of occurrence of each attribute for each category. This document contains a description of the NaiveBayesClassifier class, which implements the NBC algorithm consisting of a method for training and a method for classifying, along with examples for using the class. In addition, the document focuses on explaining the working principles of NBC and its applications in machine learning.
