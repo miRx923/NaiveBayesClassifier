@@ -25,8 +25,10 @@ Iris Species data works the same way, four attributes separated by commas and a 
 
 • <b>classCounts</b> is a dictionary that stores the number of occurrences of each class in
 the training set.
+
 • <b>featureCounts</b> is a dictionary of vocabularies that stores the number of
 occurrences of each attribute for each class in the training set.
+
 • <b>numExamples</b> stores the total number of examples in the training set.
 
 ### 3.1.1 Constructor class
@@ -49,6 +51,7 @@ occurrences of each attribute for each class in the training set.
 <b>Where:</b>
 
 • <b>P(class)</b> represents the probability of occurrence of a given class in the training set,
+
 • <b>Σ P(feature<sub>i</sub> | class)</b> represents the probability of occurrence of attribute <i>i</i> in the given class.
 
 This probability is compared to the current highest probability. If the calculated probability is greater than the current best probability, the variable bestLabel is updated to the class name and the variable bestScore is updated to the new highest probability value. Finally, the class name with the highest probability is returned.
