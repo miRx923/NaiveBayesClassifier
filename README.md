@@ -47,6 +47,7 @@ occurrences of each attribute for each class in the training set.
 
 
 <b>Where:</b>
+
 • <b>P(class)</b> represents the probability of occurrence of a given class in the training set,
 • <b>Σ P(feature<sub>i</sub> | class)</b> represents the probability of occurrence of attribute <i>i</i> in the given class.
 
