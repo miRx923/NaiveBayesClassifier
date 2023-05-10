@@ -25,7 +25,9 @@ Image 2: Sample of a part of the Iris-Species dataset
 ## 3.1 Class NaiveBayesClassifier
 &emsp;&emsp;The first C# file NaiveBayesClassifier.cs contains the main <b>NaiveBayesClassifier</b> class, which declares three variables: <b>classCounts, featureCounts, numExamples.</b>
 
-{Image 3: Class variable declaration}
+<img src="_ignore_Documentation images/1.png" alt="class variables" width="1000">
+
+Image 3: Class variable declaration
 
 • <b>classCounts</b> is a dictionary that stores the number of occurrences of each class in
 the training set.
@@ -38,12 +40,16 @@ occurrences of each attribute for each class in the training set.
 ### 3.1.1 Constructor class
 &emsp;&emsp;In the class constructor, the classifier class variables are initialized with initial values.
 
-{Image 4: Class constructor}
+<img src="_ignore_Documentation images/2.png" alt="class constructor" width="1000">
+
+Image 4: Class constructor
 
 ### 3.1.2. Train method
 &emsp;&emsp;The <b>Train (string[] features, string label)</b> method is used to train the classifier, that is, to learn a model based on the training set. The first input to the method is the attributes (features) of the input example, and the second input to the method is the class (label) to which the input example belongs. First, the class is checked to see if it already exists in the classCounts dictionary. If not, it is added with a starting value of O and incremented later. Then, for each attribute of the input example, it is determined whether it already exists in the featureCounts dictionary for the class. If not, it is added with a starting value of 0 and incremented later. The number of occurrences of the attribute for the class is then incremented. The total number of instances of numExamples is also incremented at the end.
 
-{Image 5: Train method}
+<img src="_ignore_Documentation images/3.png" alt="train method" width="1000">
+
+Image 5: Train method
 
 ### 3.1.3. Predict method
 
@@ -60,7 +66,9 @@ occurrences of each attribute for each class in the training set.
 
 This probability is compared to the current highest probability. If the calculated probability is greater than the current best probability, the variable bestLabel is updated to the class name and the variable bestScore is updated to the new highest probability value. Finally, the class name with the highest probability is returned.
 
-{Image 6: Predict method}
+<img src="_ignore_Documentation images/4.png" alt="predict method" width="1000">
+
+Image 6: Predict method
 
 ## 3.2 Main program
 &emsp;&emsp;The second C# file, Program.cs, contains the main program that allows you to train the classifier on two training sets.
@@ -68,27 +76,37 @@ This probability is compared to the current highest probability. If the calculat
 ### 3.2.1. Training with Play-Tennis dataset 
 &emsp;&emsp;This chapter focuses on training a classifier using Play-Tennis data. With this training data, the classifier is trained on 80% of the data. This part of the main program involves creating an instance of the classifier object. A standard object is created to read the .csv file containing the data. The first line of the file is skipped because it does not contain the data, but the header of the file. Then the file is read line by line and the comma separated data is separated into the value list fields and the expected class is stored in the label variable. The new classifier is then trained using the Train method on the Play-Tennis data.
 
-{Image 7: Main program for training with Play-Tennis data}
+<img src="_ignore_Documentation images/5.png" alt="training with play tennis" width="1000">
+
+Image 7: Main program for training with Play-Tennis data
 
 ### 3.2.2. Training with Iris-Species dataset
 &emsp;&emsp;This chapter focuses on training the classifier using Iris-Species data. For these training data, the classifier is trained on 80% of the data. Initially, an instance of the classifier object is created. A standard object is created to read the .csv file with the training set "Iris-TrainingData.csv". The first line is skipped because it does not contain the data, but the header of the file. Then the file is read line by line and the comma-separated data is separated into the fields of the values list and the expected class is stored in the label variable. The new classifier is then trained using the Train method on the Iris-Species data.
 
-{Image 8: Main program for training with Iris-Species data}
+<img src="_ignore_Documentation images/6.png" alt="training with iris species" width="1000">
+
+Image 8: Main program for training with Iris-Species data
 
 ### 3.2.3. Testing the classifier on Play-Tennis data
 &emsp;&emsp;This chapter focuses on testing the classifier using Play-Tennis data. It is tested on 20% of the data. The file is read line by line as in training. This time with the test data. Each row is split into attribute values and per class. Then the Predict method is used to predict the class and compare it to the actual example class to determine if it was a correct prediction.
 
-{Image 9: Testing a trained classifier with Play-Tennis data}
+<img src="_ignore_Documentation images/7.png" alt="testing with play tennis" width="1000">
+
+Image 9: Testing a trained classifier with Play-Tennis data
 
 ### 3.2.4. Testing the classifier on Iris-Species data
 &emsp;&emsp;This chapter focuses on testing the classifier using Iris-Species data. It is tested on 20% of the data. The file is read line by line. This time with test data from the file "Iris-TestingData.csv". Each row is split into attribute values and per class. Then the Predict method is used to predict the class and compare it to the actual example class to determine if it was a correct prediction.
 
-{Image 10: Testing a trained classifier with Iris-Species data}
+<img src="_ignore_Documentation images/8.png" alt="testing with iris species" width="1000">
+
+Image 10: Testing a trained classifier with Iris-Species data
 
 ### 3.2.5. Measuring accuracy metrics
 &emsp;&emsp;The main standard efficiency measures Precision, Recall, F1, Accuracy, as well as other less used measures were used to measure the effectiveness of the classifier.
 
-{Image 11: Calculation of model efficiency measures}
+<img src="_ignore_Documentation images/9.png" alt="efficiency measures" width="1000">
+
+Image 11: Calculation of model efficiency measures
 
 ## 3.3. Classifier efficiency test results
 &emsp;&emsp;The final testing of the classifier produced very favourable results, which can be seen in Tables 1 and 2.
@@ -129,7 +147,7 @@ Table 1: Model quality measurement results for Play-Tennis data
 Table 2: Model quality measurement results for Iris-Species data
 
 # 4. Conclusion
-This code contains a simple and efficient implementation of the Naive Bayes Classifier in the C# programming language. The classifier achieved very favorable efficiency results. This algorithm can be used for various tasks such as spam filters, text classification and so on. The implementation of the algorithm includes methods to train and predict the class for the input data. For the implementation, I have used C# programming language and Microsoft Visual Studio 2022 Community Edition environment.
+&emsp;&emsp;This code contains a simple and efficient implementation of the Naive Bayes Classifier in the C# programming language. The classifier achieved very favorable efficiency results. This algorithm can be used for various tasks such as spam filters, text classification and so on. The implementation of the algorithm includes methods to train and predict the class for the input data. For the implementation, I have used C# programming language and Microsoft Visual Studio 2022 Community Edition environment.
 
 # References
 [1] F. Breno, <i>"Play-Tennis dataset"</i>, [online].
