@@ -11,13 +11,15 @@ School assignment about implementing a popular machine learning algorithm Naive 
 
 PlayTennis data is represented by four comma-separated attributes, and the last attribute is the class.
 
-![play-tennis_data](/_ignore_Documentation images/play-tennis_data.png)
+<img src="_ignore_Documentation images/play-tennis_data.png" alt="play-tennis_data" width="300">
 
-{Image 1: Dataset Play-Tennis}
+Image 1: Dataset Play-Tennis
 
 Iris Species data works the same way, four attributes separated by commas and a class. This dataset is truncated by a third, it is modified to include only two of the three original classes, namely Iris-setosa and Iris-virginica.
 
-{Image 2: Sample of a part of the Iris-Species dataset}
+<img src="_ignore_Documentation images/iris-species_data.png" alt="iris-species_data" width="300">
+
+Image 2: Sample of a part of the Iris-Species dataset
 
 # 3. Code components
 ## 3.1 Class NaiveBayesClassifier
