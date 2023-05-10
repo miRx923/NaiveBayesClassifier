@@ -1,4 +1,4 @@
-﻿/**
+/**
  * Naive Bayes Classifier
  * @author: miRx923
  * @year: 2023
@@ -69,13 +69,13 @@ namespace NaiveBayesClassifier
                 }
             }
 
-            // Efectiveness metrics
+            // Effectiveness metrics
             double precision = truePositive / (truePositive + falsePositive);
             double recall = truePositive / (truePositive + falseNegative);
             double f1 = 2 * precision * recall / (precision + recall);
             double accuracy = (truePositive + trueNegative) / (truePositive + trueNegative + falsePositive + falseNegative);
 
-            // Others efectiveness metrics
+            // Other effectiveness metrics
             double errorRate = (falsePositive + falseNegative) / (truePositive + trueNegative + falsePositive + falseNegative);
             double TPR = truePositive / (truePositive + falseNegative);
             double TNR = trueNegative / (trueNegative + falsePositive);
@@ -89,7 +89,7 @@ namespace NaiveBayesClassifier
                                 $"Recall: {recall} \n" +
                                 $"F1: {f1} \n" +
                                 $"Accuracy: {accuracy} \n\n" +
-                                $"Other efectiveness metrics: \n" +
+                                $"Other effectiveness metrics: \n" +
                                 $"ErrorRate: {errorRate}   \n" +
                                 $"TruePositiveRate(TPR): {TPR}  \n" +
                                 $"TrueNegativeRate(TNR): {TNR}  \n" +
@@ -163,13 +163,13 @@ namespace NaiveBayesClassifier
             }
 
             
-            // Efectiveness metrics
+            // Effectiveness metrics
             precision = truePositive / (truePositive + falsePositive);
             recall = truePositive / (truePositive + falseNegative);
             f1 = 2 * precision * recall / (precision + recall);
             accuracy = (truePositive + trueNegative) / (truePositive + trueNegative + falsePositive + falseNegative);
 
-            // Other efectiveness metrics
+            // Other effectiveness metrics
             errorRate = (falsePositive + falseNegative) / (truePositive + trueNegative + falsePositive + falseNegative);
             TPR = truePositive / (truePositive + falseNegative);
             TNR = trueNegative / (trueNegative + falsePositive);
@@ -184,7 +184,7 @@ namespace NaiveBayesClassifier
                                 $"Recall: {recall} \n" +
                                 $"F1: {f1} \n" +
                                 $"Accuracy: {accuracy} \n\n" +
-                                $"Other efectiveness metrics: \n" +
+                                $"Other effectiveness metrics: \n" +
                                 $"ErrorRate: {errorRate}   \n" +
                                 $"TruePositiveRate(TPR): {TPR}  \n" +
                                 $"TrueNegativeRate(TNR): {TNR}  \n" +
