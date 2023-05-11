@@ -155,3 +155,6 @@ Table 2: Model quality measurement results for Iris-Species data
 
 [2] UCI Machine Learning, <i>"Iris-Species dataset"</i>, [online].
 <a>https://www.kaggle.com/datasets/uciml/iris</a>, 27. Sep. 2016.
+  
+# License
+Licensed under <b>GPL-3.0.</b>
