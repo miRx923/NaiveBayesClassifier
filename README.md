@@ -1,5 +1,6 @@
 # NaiveBayesClassifier
-The school assignment about implementing a popular machine learning algorithm Naive Bayes Classifier in C# programming language.
+
+A school assignment about implementing a popular machine learning algorithm Naive Bayes Classifier in C# programming language.
 
 <h1>Documentation of the Naive Bayes Classifier in C#</h1>
 
